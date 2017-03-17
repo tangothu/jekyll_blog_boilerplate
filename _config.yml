@@ -50,9 +50,9 @@ kramdown:
 disqus_username: tangothu
 
 # Duoshuo settings
-duoshuo_username: tangothu
+#duoshuo_username: tangothu
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -69,7 +69,7 @@ ga_domain: tangothu.github.io #huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "人生苦短, 我用Python"
-sidebar-avatar: /img/TODO.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_getan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
